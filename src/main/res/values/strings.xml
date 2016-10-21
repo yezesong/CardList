@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardList</string>
+    <string name="no_message">暂无新信息</string>
+</resources>
